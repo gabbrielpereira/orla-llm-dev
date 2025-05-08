@@ -1,0 +1,9 @@
+#requirements
+
+firecrawl-py
+langchain_ollama
+langchain-chroma
+langchain-text-splitters
+langchain-chroma>=0.1.2
+chromadb
+langchain-groq
