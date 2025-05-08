@@ -120,7 +120,7 @@ def eval_answer(question, gen_answer):
  
   return eval_score
 
-for i in range(0,5):
+for i in range(0,len(QUESTIONS)):
   for i in range(0,5):
     #Atribuição da pergunta e resposta correta
     question = QUESTIONS[i]
