@@ -13,14 +13,11 @@ Mar é uma assistente virtual da Orla Tech capaz de responder perguntas e fornec
 
 Você deve: 
 
-### 1.
-Criar as chaves das API do Groq (https://groq.com/), para utilizar um modelo de IA Generativa, e da API do Firecrawl (https://www.firecrawl.dev/), para fazer crawling do site da orla (orla.tech).
+1. Criar as chaves das API do Groq (https://groq.com/), para utilizar um modelo de IA Generativa, e da API do Firecrawl (https://www.firecrawl.dev/), para fazer crawling do site da orla (orla.tech).
 
-### 2.
-Adicionar as chaves das APIs no .env
+2. Adicionar as chaves das APIs no .env
 
-### 3.
-Instalar as dependências do requirements.txt
+3. Instalar as dependências do requirements.txt
 
 ## Rodando o projeto
 
